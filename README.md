@@ -1,2 +1,2 @@
 # qaoa-knapsack
-Quantum Approximation Optimization Algorithm (QAOA) Demo
+This is the application of QAOA on the knapsack problem, a notorious combinatorial optimization task.
